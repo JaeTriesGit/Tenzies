@@ -41,7 +41,6 @@ export default function Main(){
     function Restart(){ //Restart function
         setTenzies(false)
         setDice(GenerateDice)
-        console.log('hello')
     }
 
     function Toggle(){
